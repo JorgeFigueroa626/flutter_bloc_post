@@ -1,16 +1,18 @@
-# flutter_bloc_post
+# Flutter Bloc Post
 
 A new Flutter project.
 
-## Getting Started
+In this example we are going to create an app 
+- Learn how to use manage states using bloc
+- Separate the app in multiple layers (presentation, business logic, data)
+- Make request to a Rest API using [Http](https://pub.dev/packages/http)
+- Unit test & widget test
+- Handle exceptions
 
-This project is a starting point for a Flutter application.
+# Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| Home screen                                |Description                           |Selection screen                                      |
+|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| <img src="https://github.com/JorgeFigueroa626/flutter_bloc_post/blob/main/home.png" height="420"> | <img src="https://github.com/JorgeFigueroa626/flutter_bloc_post/blob/main/publicar.png" height="420"> | <img src="https://github.com/JorgeFigueroa626/flutter_bloc_post/blob/main/buscar.png" height="420"> |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
