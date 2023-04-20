@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743194653681",
+    "project_id": "postbloc-997a2",
+    "storage_bucket": "postbloc-997a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743194653681:android:056396e452cc450d6bca50",
+        "android_client_info": {
+          "package_name": "mis.codigos.flutter_bloc_post"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743194653681-etng4mif0l4rm81rfchigm69c3dloqvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLIGiqlhrzI46fyZX-rHcI433K5rR3kpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743194653681-etng4mif0l4rm81rfchigm69c3dloqvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
