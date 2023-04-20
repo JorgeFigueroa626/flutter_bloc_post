@@ -5,7 +5,6 @@ A new Flutter project.
 In this example we are going to create an app 
 - Learn how to use manage states using bloc
 - Separate the app in multiple layers (presentation, business logic, data)
-- Make request to a Rest API using [Http](https://pub.dev/packages/http)
 - Unit test & widget test
 - Handle exceptions
 
